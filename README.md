@@ -11,7 +11,7 @@
 😊 When I'm not coding, you can find me reading a good book, working in my garden, exploring new hiking trails, playing a game or reading the latest tech news and working on self improvement. I'm a firm believer that the best solutions come from a combination of creativity, curiosity, and hard work that includes constant learning, research and making iterations.
 
 ## 🛠️ My Tech Stack:
----
+
 <p>
     <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&logoWidth=30&labelColor=239120&color=444" />
     <img alt=".NET" src="https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&logoWidth=30&labelColor=512BD4&color=444" />
@@ -35,3 +35,12 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=30&labelColor=13aa52&color=444" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white&logoWidth=30&labelColor=43853d&color=444" />
 </p>
+
+## 📫 How to reach me:
+
+<!-- Gmail -->
+<a href="mailto:aneliyap.petkova@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&logoWidth=30&labelColor=EA4335&color=444">
+</a><a href="https://www.linkedin.com/in/aneliya-petkova/" target="_blank"><img alt="Linkedin"
+        src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=30&labelColor=0A66C2&color=444">
+</a>
