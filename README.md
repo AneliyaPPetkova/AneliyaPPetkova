@@ -46,6 +46,3 @@
 </a><a href="https://www.linkedin.com/in/aneliya-petkova/" target="_blank"><img alt="Linkedin"
         src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&logoWidth=30&labelColor=0A66C2&color=444">
 </a>
-
----
- <img alt="Thank You for visiting my profile!" src="thankyou.gif" />
