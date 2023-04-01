@@ -10,7 +10,7 @@
 
 😊 When I'm not coding, you can find me reading a good book, working in my garden, exploring new hiking trails, playing a game or reading the latest tech news and working on self improvement. I'm a firm believer that the best solutions come from a combination of creativity, curiosity, and hard work that includes constant learning, research and making iterations.
 
-## My Tech Stack:
+## 🛠️ My Tech Stack:
 ---
 <p>
     <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&logoWidth=30&labelColor=239120&color=444" />
