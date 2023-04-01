@@ -1,5 +1,7 @@
 # Hey there, I'm Aneliya! 👋<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AneliyaPPetkova.AneliyaPPetkova&left_color=green&right_color=red)
+
 🌟 I'm a software developer with a passion for solving complex problems and building innovative solutions. I've been working in the IT field for the past 10 years, and my journey has taken me from quality assurance to software development, where I've worked with a wide range of technologies and tools.
 
 🚀 I take great care in the experience, architecture, and code quality of the things I build and I'm always eager to push the boundaries of what's possible with technology. I'm a skilled problem solver with strong analytical skills and an eye for detail, which helps me create elegant and efficient solutions to complex challenges.
