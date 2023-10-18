@@ -50,14 +50,39 @@
 
 <!-- Fiverr. profile -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/aneliyapetkova rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d068dd23-a797-4a18-bed2-d092b63ec1e6' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >aneliyapetkova</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>🌟 I'm an IT pro with a decade of experience, transitioning to front-end web development with React and Angular. I'm passionate about solving complex problems and creating innovative solutions. With a strong eye for detail, I deliver elegant and efficient results. Constantly learning, I believe in the power of creativity, curiosity, and hard work to drive success. When not coding, you'll find me exploring hiking trails or staying updated with the latest tech trends. Your project deserves top-tier expertise, and that's what I deliver. Let's turn your vision into reality! 💻🚀 #WebDev #React</div>
+<div itemscope="" itemtype="http://schema.org/Person" class="fiverr-seller-widget" style="display: inline-block;">
+     <a itemprop="url" href="https://www.fiverr.com/aneliyapetkova" rel="nofollow" target="_blank" 
+     style="display: inline-block; 
+        color: black;
+        text-align: center;
+        background: white; 
+        text-decoration:none;">
+        <div class="fiverr-seller-content" id="fiverr-seller-widget-content-a3c0782a-b249-41e2-a082-bfc87aa66176" itemprop="contentURL" style="display: inline-block;">
+                <div class="crop">
+                        <img src="https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/8c782c48f16bbd9a824a468b21b47a55-1697107414820/677f469e-fa42-4f72-a445-08046ce769b1.png" 
+                        class="fiverr-profile-img" 
+                        style="border-radius: 50%; 
+                        height: 180px;
+                        width: 180px;">             
+                        <div class="overlay"></div>
+                </div>             
+                <img src="https://d2nb1f6l8b7ky0.cloudfront.net/fiverr_icon.png" class="fiverr-icon" 
+                style="margin-top: -38px;
+                position: relative;">
+        </div>
+        <div id="fiverr-widget-seller-data" style="display: block;">
+            <div itemprop="name" style="font-weight: 900;">aneliyapetkova</div>
+            <div itemscope="" itemtype="http://schema.org/Organization" style="display: none; font-weight: 900;">
+                <span itemprop="name">Fiverr</span>
+            </div>
+            <div itemprop="jobtitle">Software Developer</div>
+            <div class="fiverr-seller-category"> Programming &amp; Tech </div>             
+            <div class="check-gigs-btn" 
+            style="background-image: linear-gradient(rgb(53, 195, 80), rgb(3, 181, 37)); 
+            color: white;
+            height: 30px; 
+            line-height: 29px; 
+            text-align: center; ">Check out my Gigs</div>
         </div>
     </a>
 </div>
