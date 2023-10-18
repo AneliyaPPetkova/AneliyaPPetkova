@@ -56,7 +56,7 @@
         <div id='fiverr-widget-seller-data' style='display: none;'>
             <div itemprop='name' >aneliyapetkova</div>
             <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Software Developer</div>
+            <div itemprop='jobtitle'>Seller</div>
             <div itemprop='description'>🌟 I'm an IT pro with a decade of experience, transitioning to front-end web development with React and Angular. I'm passionate about solving complex problems and creating innovative solutions. With a strong eye for detail, I deliver elegant and efficient results. Constantly learning, I believe in the power of creativity, curiosity, and hard work to drive success. When not coding, you'll find me exploring hiking trails or staying updated with the latest tech trends. Your project deserves top-tier expertise, and that's what I deliver. Let's turn your vision into reality! 💻🚀 #WebDev #React</div>
         </div>
     </a>
