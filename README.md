@@ -87,9 +87,6 @@
     </a>
 </div>
 
-<script id='fiverr-seller-widget-script-d068dd23-a797-4a18-bed2-d092b63ec1e6' src='https://widgets.fiverr.com/api/v1/seller/aneliyapetkova?widget_id=d068dd23-a797-4a18-bed2-d092b63ec1e6' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-
-
 ## 🖥️ Portfolio:
 
 | 📷 Screenshot | ℹ️ Info |
